@@ -22,6 +22,8 @@
 
 2. [如何利用 Hexo+Github 搭建博客](https://github.com/nnyier/nnyier.github.io/issues/5)
 
+3. [Sublime 安装 Vue 语法高亮插件](https://github.com/nnyier/nnyier.github.io/issues/8)
+
 ## ES6
 
 1. [解构赋值](https://github.com/nnyier/nnyier.github.io/issues/2)
